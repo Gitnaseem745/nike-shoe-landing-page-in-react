@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
 @layer base{
     .nav{
         @apply font-poppins mt-4 px-32 max-sm:px-8 max-lg:px-20 font-semibold flex-wrap flex justify-between items-center flex-row
@@ -19,19 +25,19 @@
         @apply hover:bg-[#442D86] hover:text-white
     }
     .btn-pos{
-        @apply w-6/12 flex justify-evenly mr-44 max-lg:w-3/5
+        @apply w-[444px] flex gap-4 max-sm:w-[230px]
     }
     .hero-para{
-        @apply w-[400px] mr-10 text-[#5A5959]
+        @apply w-[400px] mr-10 text-[#5A5959] max-sm:text-sm max-sm:w-[220px] max-sm:mr-0
     }
     .flex-center{
         @apply flex flex-col gap-8 justify-center items-center
     }
     .hero-title{
-        @apply text-8xl font-bold tracking-wide
+        @apply text-8xl font-bold tracking-wide max-sm:text-5xl
     }
     .logo-pos{
-        @apply self-start ml-32
+        @apply flex items-start gap-3 flex-col
     }
     .nav-links li:hover{
         color: #442D86;
