@@ -22,6 +22,8 @@ The landing page showcases a clean and modern design, focusing on a single produ
 
 ## Live Demo
 
+![Demo Image](demoImage.png)
+
 Check out the live demo of the project here: [Nike Shoe Landing Page](https://nike-shoe-landing-page-in-react.vercel.app/)
 
 ## Installation
