@@ -1,12 +1,35 @@
-<<<<<<< HEAD
-# React + Vite
+# Nike Shoe Landing Page in React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **Nike Shoe Landing Page** built using **React**. The primary goal of this project was to enhance my skills in **responsive design** and **React development**.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# nike-shoe-landing-page-in-react
->>>>>>> bb0c2b6d4434b9f09bc19769a82b6ad4f19ccaad
+The landing page showcases a clean and modern design, focusing on a single product (Nike Shoe) with interactive elements, and a responsive layout that adapts seamlessly across various devices.
+
+## Features
+
+- **Responsive Design**: The layout adjusts smoothly for mobile, tablet, and desktop views.
+- **React Components**: The project utilizes reusable components to keep the code modular and maintainable.
+- **CSS Flexbox & Grid**: Leveraged CSS Flexbox and Grid for responsive layouts.
+- **Deployment**: Deployed on Vercel for easy access and sharing.
+
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces.
+- **Tailwind CSS**: For styling and layout.
+- **HTML5**: Markup language.
+- **Vercel**: Platform for deploying the application.
+
+## Live Demo
+
+![Demo Image](demoImage.png)
+
+Check out the live demo of the project here: [Nike Shoe Landing Page](https://nike-shoe-landing-page-in-react.vercel.app/)
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/nike-shoe-landing-page.git
